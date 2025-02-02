@@ -1,1 +1,1 @@
-require("darkbox").load()
+require("darkbox").setup()
